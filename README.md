@@ -1,1 +1,1 @@
-# Mpygame
+# Mypygame
